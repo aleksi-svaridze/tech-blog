@@ -27,7 +27,7 @@ const Header = () => {
           <Link to="/" className="rounded-full h-10 sm:h-12 flex items-center">
             <img src={Logo} className="h-full" alt="company name" />
             <span className="text-blue-900 capitalize text-base sm:text-lg font-bold border-l-2 border-blue-900 pl-2">
-              our tech blog
+              tech blog
             </span>
           </Link>
           <nav className="hidden sm:flex items-center gap-x-5 capitalize">
